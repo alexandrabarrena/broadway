@@ -1,0 +1,60 @@
+/* General Styles */
+
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+p {
+  font-size: 14px;
+  color: black;
+}
+
+/* Specific Stlyes */
+
+.image {
+  background: url("./the-flatiron-building.png");
+}
+
+
+.navigation {
+  font-size: 18px;
+  color: white;
+  line-height: 35px;
+}
+
+.white {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background: url("./the-flatiron-building.png");
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+.contactdetails {
+  line-height: 35px;
+}
